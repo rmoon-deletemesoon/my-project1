@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome All
 
-oooooo
+Welcome to my new site
 
-<a href="index2.html">index2</a>
+[index2.html](index2)
