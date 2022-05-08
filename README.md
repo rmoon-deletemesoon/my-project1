@@ -1,5 +1,5 @@
 ## Welcome All
 
-Welcome to my new site
+This is my first web site. :)
 
-[index2](index2.md)
+[go to page 2](index2.md)
